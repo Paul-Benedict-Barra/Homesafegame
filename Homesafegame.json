@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "TitleScene",
   "gdVersion": {
     "build": 283,
     "major": 5,
@@ -26,7 +26,7 @@
     "windowHeight": 720,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
-    "minFPS": 20,
+    "minFPS": 30,
     "verticalSync": false,
     "platformSpecificAssets": {
       "android-icon-144": "",
@@ -91,30 +91,6 @@
   },
   "resources": {
     "resources": [
-      {
-        "file": "assets/StartingCollisionArea.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\StartingCollisionArea.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Background.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Background.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/StartingNPC.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\StartingNPC.png",
-        "smoothed": true,
-        "userAdded": false
-      },
       {
         "file": "assets/8BitOperatorPlus8Regular_Edited.png",
         "kind": "image",
@@ -221,6 +197,205 @@
         "preloadAsSound": true,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Yellow Jelly Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5cc04ef76aad172a63070469c328ceb3f74207115ad9c2321ccfe0d5755677a0_Yellow Jelly Button_Hovered.png",
+          "name": "Yellow Jelly Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Yellow Jelly Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/04f6f22d3160fa528875b199bb7bd4f35cf3f20fb8fde4a5d960f01df9bee3a3_Yellow Jelly Button_Idle.png",
+          "name": "Yellow Jelly Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Yellow Jelly Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/11abe8b7d577c30b71789404003c50b3fe73d63492fd30669a5153bc67ac0a60_Yellow Jelly Button_Pressed.png",
+          "name": "Yellow Jelly Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Rubik-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Rubik-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/edbc88d46437d6403d3670eb084bcbdf08872c9f54a34ed1536c1013c412bd3b_Rubik-Regular.ttf",
+          "name": "Rubik-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/White Sleek Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f6cc4ba876203745a8518ced52d0d773ff01ff8a63cdd9ac24388e5f3623cb48_White Sleek Button_Hovered.png",
+          "name": "White Sleek Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/White Sleek Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4d6db3c01bcade6c9060eb7bb37090777c228a29da7c5f25480b0cdedd37dc98_White Sleek Button_Idle.png",
+          "name": "White Sleek Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/White Sleek Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1e0387e7db58479ccb896a55b62f6db0955c926ad0f92a28d4306045c44245b2_White Sleek Button_Pressed.png",
+          "name": "White Sleek Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/WorkSans-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "WorkSans-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
+          "name": "WorkSans-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/CaveatBrush-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Black Square Decorated Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f412f1600c8331cf72f89d4bd00ce33a91d18553dea6d91ae71966a24c659e9a_Black Square Decorated Button_Hovered.png",
+          "name": "Black Square Decorated Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Black Square Decorated Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/a33bd108a01f89ef1fe8d695b6b060e19ec466e4fce2d728ed93fb2b96ebd768_Black Square Decorated Button_Idle.png",
+          "name": "Black Square Decorated Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Black Square Decorated Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c772df82fc56543546eea5576b02f73253eaf5683120a331581f0b85664f62af_Black Square Decorated Button_Pressed.png",
+          "name": "Black Square Decorated Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/mononoki-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "mononoki-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7423149de6e486ac885567761bef3236bcdb8414d05cb0920ae7aedffdec85f9_mononoki-Regular.ttf",
+          "name": "mononoki-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/Medieval Button Brown_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medieval Button Brown_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f050eea8c9631c6b163779937225dd43bb432edf6b66dbaf64413e005ce5fbed_Medieval Button Brown_Hovered.png",
+          "name": "Medieval Button Brown_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Medieval Button Brown_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medieval Button Brown_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/236403e4a45a3c7435d21f15ebcf3ab54b83e7389964d6999b0f82a3a957056a_Medieval Button Brown_Idle.png",
+          "name": "Medieval Button Brown_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Medieval Button Brown_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medieval Button Brown_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/d9240cf31b0e332a890cdbe7658eef81c587545df6673b86565c9141a23bc195_Medieval Button Brown_Pressed.png",
+          "name": "Medieval Button Brown_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/CaveatBrush-Regular2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "CaveatBrush-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "name": "CaveatBrush-Regular.ttf"
+        }
       }
     ]
   },
@@ -229,23 +404,36 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "FinalScore",
+      "persistentUuid": "3c0eaf4d-34f3-4125-a0fb-beec6ea0f348",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "StarsEarned",
+      "persistentUuid": "9cd37efb-095a-439c-9f2d-d918925aa327",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
-      "b": 255,
+      "b": 231,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Game_32Scene",
-      "name": "Game Scene",
+      "mangledName": "TitleScene",
+      "name": "TitleScene",
       "r": 255,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 255,
+      "v": 248,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
-        "gridWidth": 64,
-        "gridHeight": 64,
+        "gridWidth": 32,
+        "gridHeight": 32,
         "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
@@ -253,348 +441,27 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7619362677197756,
+        "zoomFactor": 0.546875,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
       },
-      "objectsGroups": [
-        {
-          "name": "Characters",
-          "objects": [
-            {
-              "name": "NPC"
-            },
-            {
-              "name": "Player"
-            }
-          ]
-        }
-      ],
-      "variables": [
-        {
-          "name": "SceneScaling",
-          "persistentUuid": "3c812502-8393-4d83-9ff8-57ed7c1b9330",
-          "type": "number",
-          "value": 0.8
-        }
-      ],
+      "objectsGroups": [],
+      "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "locked": true,
-          "name": "Background",
-          "persistentUuid": "78b664d1-5874-4a84-b022-bf810d936dad",
-          "width": 0,
-          "x": 0,
-          "y": 0,
-          "zOrder": -10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "e8c3487a-80e5-465b-b3a8-8feada71d5fe",
-          "width": 288,
-          "x": 681,
-          "y": 508,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 80,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "37508cd7-0278-4982-be39-c37f7544c16a",
-          "width": 64,
-          "x": 951,
-          "y": 640,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 176,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "ef37aabf-9ae6-4836-931e-30e9fc5511cd",
-          "width": 64,
-          "x": 684,
-          "y": 544,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
           "keepRatio": true,
           "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "15d56137-f7c6-49af-99cd-13ff322ae649",
-          "width": 1072,
-          "x": 112,
-          "y": 186,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 432,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "9a3a50db-a5cd-4b92-b539-f917e502217e",
-          "width": 64,
-          "x": 1264,
-          "y": 336,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 432,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "d9d2af3a-6c95-43ac-bf0d-6b45c12e9bee",
-          "width": 64,
-          "x": -48,
-          "y": 336,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "2e39eef0-b3e1-4d11-b1fa-561d2dfbcf2c",
-          "width": 1376,
-          "x": -48,
-          "y": 704,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "d345cd2d-07ed-4171-9a06-cd80226e6e6a",
-          "width": 64,
-          "x": 80,
-          "y": 208,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "65aa7f57-7d6a-4ea8-83d1-66085e5918ea",
-          "width": 64,
-          "x": 48,
-          "y": 240,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "edb1802e-88ff-470e-88a7-6799cf8c9c6f",
-          "width": 64,
-          "x": 16,
-          "y": 272,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "4ca395ff-067b-408e-8a71-86afbee2d597",
-          "width": 64,
-          "x": -16,
-          "y": 304,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "10c24800-a626-4e81-af82-fb25265e51ba",
-          "width": 64,
-          "x": 1232,
-          "y": 304,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "5afc1840-75a2-4d1b-bbab-ae57cf5aa5f3",
-          "width": 64,
-          "x": 1136,
-          "y": 208,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "4496094d-55b9-479b-b2a1-3f2e3c497b13",
-          "width": 64,
-          "x": 1168,
-          "y": 240,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "9a536308-f61a-4b72-86a9-83c6b4af35ad",
-          "width": 64,
-          "x": 1200,
-          "y": 272,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "f8399add-f0d6-4245-b651-8d0ab194935c",
-          "width": 64,
-          "x": 923,
-          "y": 541,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "layer": "",
-          "name": "PathfindingObstacle",
-          "persistentUuid": "f040d246-9627-49ff-81a1-5cdc40b64191",
-          "width": 64,
-          "x": 940,
-          "y": 591,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 32,
-          "height": 192,
-          "keepRatio": true,
-          "layer": "Dialog layer",
-          "locked": true,
-          "name": "TwoChoicesDialogBox",
-          "persistentUuid": "ff7316fe-3b04-4ad5-8194-042724f9f18d",
-          "width": 640,
-          "x": 320,
-          "y": 448,
-          "zOrder": 8,
+          "name": "TitleText",
+          "persistentUuid": "e3cd91fd-4690-43a0-8e61-4867aa47e233",
+          "width": 526,
+          "x": 384,
+          "y": 64,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -605,82 +472,46 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "NPC",
-          "persistentUuid": "fb5f991e-ae51-45ff-8533-29148adcadd0",
-          "width": 0,
-          "x": 640,
-          "y": 392,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NPC",
-          "persistentUuid": "8ea20f0b-0cde-4638-9fd0-d1aa06a61654",
-          "width": 0,
-          "x": 1009,
-          "y": 307,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NPC",
-          "persistentUuid": "5d26c43d-4bd4-47a6-93c2-88d688ff5f74",
-          "width": 0,
-          "x": 1152,
-          "y": 584,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NPC",
-          "persistentUuid": "06f12367-b7ac-4b92-9370-d63a537d8474",
-          "width": 0,
-          "x": 152,
-          "y": 658,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Player",
-          "persistentUuid": "d2ffca6b-8de2-42c2-ab5d-90c7e9a6c447",
+          "name": "TaglineText",
+          "persistentUuid": "9660b337-7880-4aaa-89c5-c0c9b74066e3",
           "width": 0,
           "x": 407,
-          "y": 455,
-          "zOrder": 9,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
+          "y": 160,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "HowToText",
+          "persistentUuid": "ab1e7a0d-0176-442b-8f3e-aff7ee46e61a",
+          "width": 0,
+          "x": 360,
+          "y": 510,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 64,
+          "height": 68,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StartButton",
+          "persistentUuid": "283b369a-4e9d-49d5-8ab8-41724f4e9c6b",
+          "width": 249,
+          "x": 519,
+          "y": 412,
+          "zOrder": 4,
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -688,417 +519,167 @@
       "objects": [
         {
           "assetStoreId": "",
-          "height": 720,
-          "name": "Background",
-          "persistentUuid": "a5e91b1d-3caa-4d0d-b9c4-b711eb60a0ee",
-          "texture": "assets\\Background.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 1280,
+          "bold": true,
+          "italic": false,
+          "name": "TitleText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
           "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 64,
-          "name": "PathfindingObstacle",
-          "persistentUuid": "63679285-9e1c-4afb-9434-4aef7ceebd61",
-          "texture": "assets\\StartingCollisionArea.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
-              "impassable": true
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "NPC",
-          "persistentUuid": "55982d09-b674-4f39-a74d-cee4c65e32b4",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "name": "Selected",
-              "persistentUuid": "2378316c-7793-4844-8e78-c83d98580070",
-              "type": "boolean",
-              "value": false
-            }
-          ],
           "effects": [],
           "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\StartingNPC.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 69.5,
-                        "y": 195
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20,
-                            "y": 120
-                          },
-                          {
-                            "x": 119,
-                            "y": 120
-                          },
-                          {
-                            "x": 119,
-                            "y": 223
-                          },
-                          {
-                            "x": 20,
-                            "y": 223
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "string": "HOMESAFE\n",
+          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 72,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "HOMESAFE\n",
+            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 72,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
         },
         {
-          "assetStoreId": "9d5de415b6e469c681701ea42d3b1c486fee31d6ef591a2d3e226f639ab486ff",
-          "name": "TwoChoicesDialogBox",
-          "persistentUuid": "43dcc83b-4f79-4a52-804b-5580645ea985",
-          "type": "TwoChoicesDialogBoxes::TwoChoicesDialogBox",
-          "variant": "DialogBox",
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TaglineText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "A household safety educational game\n",
+          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "A household safety educational game\n",
+            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "HowToText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "How to play: Read each home scene. Pick the safest choice. ",
+          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "How to play: Read each home scene. Pick the safest choice. ",
+            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
+          "name": "StartButton",
+          "persistentUuid": "de07e4be-13e5-49fa-8ad0-8150a6f83e71",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variant": "Medieval Button Brown",
           "variables": [],
           "effects": [],
           "behaviors": [],
           "content": {
-            "LabelButtonID0": "Yes",
-            "TextMessage": "Want me to go away?",
-            "EnableEscape": false
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 4,
+            "BottomPadding": 10,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2,
+            "LabelText": "Start"
           }
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Player",
-          "persistentUuid": "0965c535-d7d6-47e2-b4a7-2e41f9517bfe",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "name": "Selected",
-              "persistentUuid": "2378316c-7793-4844-8e78-c83d98580070",
-              "type": "boolean",
-              "value": false
-            }
-          ],
-          "effects": [],
-          "behaviors": [
-            {
-              "isFolded": true,
-              "name": "Pathfinding",
-              "type": "PathfindingBehavior::PathfindingBehavior",
-              "acceleration": 2000,
-              "allowDiagonals": true,
-              "angleOffset": 0,
-              "angularMaxSpeed": 180,
-              "cellHeight": 5,
-              "cellWidth": 5,
-              "extraBorder": 0,
-              "gridOffsetX": 0,
-              "gridOffsetY": 0,
-              "maxSpeed": 200,
-              "rotateObject": false,
-              "smoothingMaxCellGap": 1
-            }
-          ],
-          "animations": [
-            {
-              "name": "Walk0",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/StartingPlayer_Right.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 69.5,
-                        "y": 195
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 32,
-                        "y": 64
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20,
-                            "y": 223
-                          },
-                          {
-                            "x": 20,
-                            "y": 176
-                          },
-                          {
-                            "x": 119,
-                            "y": 176
-                          },
-                          {
-                            "x": 119,
-                            "y": 223
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walk1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/StartingPlayer_Down.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 69.5,
-                        "y": 195
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 32,
-                        "y": 64
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20,
-                            "y": 223
-                          },
-                          {
-                            "x": 20,
-                            "y": 176
-                          },
-                          {
-                            "x": 119,
-                            "y": 176
-                          },
-                          {
-                            "x": 119,
-                            "y": 223
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walk2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/StartingPlayer_Left.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 69.5,
-                        "y": 195
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 32,
-                        "y": 64
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20,
-                            "y": 223
-                          },
-                          {
-                            "x": 20,
-                            "y": 176
-                          },
-                          {
-                            "x": 119,
-                            "y": 176
-                          },
-                          {
-                            "x": 119,
-                            "y": 223
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walk3",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/StartingPlayer_Up.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 69.5,
-                        "y": 195
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 32,
-                        "y": 64
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 20,
-                            "y": 223
-                          },
-                          {
-                            "x": 20,
-                            "y": 176
-                          },
-                          {
-                            "x": 119,
-                            "y": 176
-                          },
-                          {
-                            "x": 119,
-                            "y": 223
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "additive": false,
-          "assetStoreId": "",
-          "destroyWhenNoParticles": true,
-          "emitterAngleA": 0,
-          "emitterAngleB": 360,
-          "emitterForceMax": 130,
-          "emitterForceMin": 100,
-          "flow": 800,
-          "jumpForwardInTimeOnCreation": 0.3,
-          "maxParticleNb": 300,
-          "name": "DebrisParticle",
-          "particleAlpha1": 255,
-          "particleAlpha2": 0,
-          "particleAlphaRandomness1": 0,
-          "particleAlphaRandomness2": 0,
-          "particleAngle1": 0,
-          "particleAngle2": 0,
-          "particleAngleRandomness1": 0,
-          "particleAngleRandomness2": 0,
-          "particleBlue1": 255,
-          "particleBlue2": 231,
-          "particleColor1": "255;255;255",
-          "particleColor2": "231;231;231",
-          "particleGravityX": 0,
-          "particleGravityY": 0,
-          "particleGreen1": 255,
-          "particleGreen2": 231,
-          "particleLifeTimeMax": 0.6,
-          "particleLifeTimeMin": 0.4,
-          "particleRed1": 255,
-          "particleRed2": 231,
-          "particleSize1": 100,
-          "particleSize2": 75,
-          "particleSizeRandomness1": 0,
-          "particleSizeRandomness2": 0,
-          "persistentUuid": "b978f0b7-ee5f-41ae-a352-514b4cbbb7ca",
-          "rendererParam1": 3,
-          "rendererParam2": 1,
-          "rendererType": "Quad",
-          "tank": 28,
-          "textureParticleName": "assets/DirtParticle.png",
-          "type": "ParticleSystem::ParticleEmitter",
-          "zoneRadius": 3,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "NPC"
+            "objectName": "TitleText"
           },
           {
-            "objectName": "Player"
+            "objectName": "TaglineText"
           },
           {
-            "objectName": "Background"
+            "objectName": "HowToText"
           },
           {
-            "objectName": "PathfindingObstacle"
-          },
-          {
-            "objectName": "DebrisParticle"
-          },
-          {
-            "objectName": "TwoChoicesDialogBox"
+            "objectName": "StartButton"
           }
         ]
       },
@@ -1108,9 +689,21 @@
           "conditions": [
             {
               "type": {
-                "value": "SceneJustBegins"
+                "value": "MouseButtonFromTextPressed"
               },
               "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "StartButton",
+                "",
+                "",
                 ""
               ]
             }
@@ -1118,19 +711,12 @@
           "actions": [
             {
               "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "PathfindingObstacle"
-              ]
-            },
-            {
-              "type": {
-                "value": "HideLayer"
+                "value": "Scene"
               },
               "parameters": [
                 "",
-                "\"Dialog layer\""
+                "\"GameScene\"",
+                ""
               ]
             }
           ]
@@ -1138,562 +724,10 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "SetZOrder"
-              },
-              "parameters": [
-                "Characters",
-                "=",
-                "Characters.Y()"
-              ]
-            },
-            {
-              "type": {
-                "value": "ScalableCapability::ScalableBehavior::SetValue"
-              },
-              "parameters": [
-                "Characters",
-                "Scale",
-                "=",
-                "(1 - SceneScaling) + (Characters.Y() / ScreenHeight()) * SceneScaling"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Player movement"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "LayerVisible"
-              },
-              "parameters": [
-                "",
-                "\"Dialog layer\""
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Left\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PathfindingBehavior::SetDestination"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Pathfinding",
-                    "",
-                    "CursorX()",
-                    "CursorY()"
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PickAllInstances"
-                      },
-                      "parameters": [
-                        "",
-                        "NPC"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "NPC",
-                        "Selected",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "IsCursorOnObject"
-                      },
-                      "parameters": [
-                        "NPC",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "NPC",
-                        "Selected",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PathfindingBehavior::Speed"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Pathfinding",
-                    ">",
-                    "1"
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PathfindingBehavior::PathfindingBehavior::MovementAngleIsAround"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Pathfinding",
-                        "0",
-                        "45"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Animation",
-                        "=",
-                        "0"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PathfindingBehavior::PathfindingBehavior::MovementAngleIsAround"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Pathfinding",
-                        "90",
-                        "45"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Animation",
-                        "=",
-                        "1"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PathfindingBehavior::PathfindingBehavior::MovementAngleIsAround"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Pathfinding",
-                        "180",
-                        "45"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Animation",
-                        "=",
-                        "2"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PathfindingBehavior::PathfindingBehavior::MovementAngleIsAround"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Pathfinding",
-                        "270",
-                        "45"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Animation",
-                        "=",
-                        "3"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Player",
-                    "NPC",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BooleanObjectVariable"
-                  },
-                  "parameters": [
-                    "NPC",
-                    "Selected",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PathfindingBehavior::SetDestination"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Pathfinding",
-                    "",
-                    "Player.X()",
-                    "Player.Y()"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Pathfinding",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ShowLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Dialog layer\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "assets/starting_bookopen.wav",
-                    "",
-                    "80",
-                    "1.1"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Dialog choices"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "LayerVisible"
-              },
-              "parameters": [
-                "",
-                "\"Dialog layer\""
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanObjectVariable"
-                  },
-                  "parameters": [
-                    "NPC",
-                    "Selected",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "TwoChoicesDialogBoxes::TwoChoicesDialogBox::IsYesClicked"
-                      },
-                      "parameters": [
-                        "TwoChoicesDialogBox",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "DebrisParticle",
-                        "NPC.CenterX()",
-                        "NPC.CenterY()",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetZOrder"
-                      },
-                      "parameters": [
-                        "DebrisParticle",
-                        "=",
-                        "NPC.ZOrder()-1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "assets/starter_pop.wav",
-                        "",
-                        "80",
-                        "RandomFloatInRange(0.7,0.9)"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "NPC",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "TwoChoicesDialogBoxes::TwoChoicesDialogBox::IsNoClicked"
-                          },
-                          "parameters": [
-                            "TwoChoicesDialogBox",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "TwoChoicesDialogBoxes::TwoChoicesDialogBox::IsYesClicked"
-                          },
-                          "parameters": [
-                            "TwoChoicesDialogBox",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Pathfinding",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "HideLayer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Dialog layer\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "NPC",
-                        "Selected",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "assets/starting_bookopen.wav",
-                        "",
-                        "80",
-                        "0.8"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "actions": []
         }
       ],
       "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Background",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
         {
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
@@ -1721,32 +755,46 @@
               "width": 0
             }
           ],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Dialog layer",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
-        {
-          "name": "Animation",
-          "type": "AnimatableCapability::AnimatableBehavior"
-        },
         {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
@@ -1758,14 +806,6 @@
         {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
-        },
-        {
-          "name": "Pathfinding",
-          "type": "PathfindingBehavior::PathfindingBehavior"
-        },
-        {
-          "name": "PathfindingObstacle",
-          "type": "PathfindingBehavior::PathfindingObstacleBehavior"
         },
         {
           "name": "Resizable",
@@ -1780,202 +820,700 @@
           "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
-    }
-  ],
-  "externalEvents": [],
-  "tests": [
+    },
     {
-      "description": "Clicking a spot gives the player a path and it walks toward it; it stands still while nothing is clicked.",
-      "name": "Clicking sends the player walking there",
-      "type": "gameplay",
-      "source": [
-        "// The core of the game: clicking somewhere sends the player walking there.",
-        "await harness.goToScene('Game Scene');",
-        "harness.watch('Player');",
-        "",
-        "const getPlayer = () => harness.getObjects('Player')[0];",
-        "const pathfinding = () => getPlayer().behaviors.Pathfinding.state;",
-        "const dialogLayer = harness.getRuntimeLayer('Dialog layer');",
-        "const isDialogOpen = () => dialogLayer.isVisible();",
-        "",
-        "/** Click on a point of a layer. */",
-        "const clickAt = async (x, y, layerName) => {",
-        "  harness.setMousePosition(x, y, layerName);",
-        "  await harness.stepFrames(2);",
-        "  harness.setMouseButtonPressed(true);",
-        "  await harness.stepFrames(3);",
-        "  harness.setMouseButtonPressed(false);",
-        "  await harness.stepFrames(3);",
-        "};",
-        "",
-        "await harness.stepFrames(3);",
-        "// The level starts with nobody being talked to, so the player is free to",
-        "// walk from the first frame.",
-        "harness.assert(!isDialogOpen(), 'No dialog is in the way when the level starts.');",
-        "",
-        "// Nothing happens on its own: the player only walks when told to.",
-        "const start = getPlayer();",
-        "await harness.stepFrames(15);",
-        "const idle = getPlayer();",
-        "harness.assert(",
-        "  Math.hypot(idle.centerX - start.centerX, idle.centerY - start.centerY) < 5,",
-        "  'The player stands still while nothing is clicked.'",
-        ");",
-        "",
-        "/** Whether a point is clear of every NPC (clicking one talks to it). */",
-        "const isClearOfNPCs = (x, y) =>",
-        "  harness.getObjects('NPC').every(",
-        "    (npc) =>",
-        "      x < npc.centerX - npc.width / 2 ||",
-        "      x > npc.centerX + npc.width / 2 ||",
-        "      y < npc.centerY - npc.height / 2 ||",
-        "      y > npc.centerY + npc.height / 2",
-        "  );",
-        "",
-        "// Click on a spot with no NPC on it: clicking an NPC talks to it instead of",
-        "// just walking. The NPCs are wide and the room has walls the pathfinder keeps",
-        "// the player away from, so the candidates are tried in turn until one is",
-        "// both free of NPCs and reachable. They are all far enough for the walk",
-        "// below to be measurable.",
-        "let destinationX = null;",
-        "let destinationY = null;",
-        "for (const [dx, dy] of [[200, 250], [90, 300], [-90, 300], [90, -230], [150, 0], [-150, 0], [0, 150]]) {",
-        "  const x = start.centerX + dx;",
-        "  const y = start.centerY + dy;",
-        "  if (!isClearOfNPCs(x, y)) continue;",
-        "  await clickAt(x, y, start.layer);",
-        "  console.log(",
-        "    'clicked=' + Math.round(x) + ',' + Math.round(y) +",
-        "      ' pathFound=' + pathfinding().PathFound +",
-        "      ' nodes=' + pathfinding().NodeCount",
-        "  );",
-        "  if (pathfinding().PathFound === true) {",
-        "    destinationX = x;",
-        "    destinationY = y;",
-        "    break;",
-        "  }",
-        "}",
-        "harness.assert(",
-        "  destinationX !== null,",
-        "  'Clicking a free spot gives the player a path to walk.'",
-        ");",
-        "",
-        "const walked = await harness.stepUntil(",
-        "  () => {",
-        "    const player = getPlayer();",
-        "    return (",
-        "      Math.hypot(player.centerX - start.centerX, player.centerY - start.centerY) >",
-        "      100",
-        "    );",
-        "  },",
-        "  { maxFrames: 120 }",
-        ");",
-        "const after = getPlayer();",
-        "const travelled = Math.hypot(",
-        "  after.centerX - start.centerX,",
-        "  after.centerY - start.centerY",
-        ");",
-        "const closerToDestination =",
-        "  Math.hypot(destinationX - after.centerX, destinationY - after.centerY) <",
-        "  Math.hypot(destinationX - start.centerX, destinationY - start.centerY);",
-        "console.log(",
-        "  'walked=' + Math.round(travelled) +",
-        "    ' from=' + Math.round(start.centerX) + ',' + Math.round(start.centerY) +",
-        "    ' to=' + Math.round(after.centerX) + ',' + Math.round(after.centerY)",
-        ");",
-        "harness.assert(",
-        "  walked,",
-        "  'The player walks after the click (it moved ' + Math.round(travelled) + 'px).'",
-        ");",
-        "harness.assert(",
-        "  closerToDestination,",
-        "  'The player walks toward where it was sent, not away from it.'",
-        ");"
+      "b": 231,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "GameScene",
+      "name": "GameScene",
+      "r": 255,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 248,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [
+        {
+          "name": "ScenarioIndex",
+          "persistentUuid": "bf28d104-2522-4f62-ad18-8befcff06c26",
+          "type": "number",
+          "value": 1
+        },
+        {
+          "name": "TotalScenarios",
+          "persistentUuid": "13d9582c-63ef-4390-8914-68090a3de10d",
+          "type": "number",
+          "value": 5
+        },
+        {
+          "name": "LoadScenario",
+          "persistentUuid": "6e26aa7f-cd4a-4b5e-b26c-0822f2b96e3f",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "CorrectChoice",
+          "persistentUuid": "3922b2a2-6b14-4bc1-9eb0-54401652f65f",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "PickedChoice",
+          "persistentUuid": "72312f66-7051-471c-9d00-ba538490d08f",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Attempts",
+          "persistentUuid": "f1fffed5-0373-4185-8e97-c6ffd936e203",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Mode",
+          "persistentUuid": "db6adf00-e98e-40e9-8954-6673625eaf99",
+          "type": "string",
+          "value": "ask"
+        },
+        {
+          "name": "Feedback1",
+          "persistentUuid": "47a7ed03-03c8-4f95-a553-c26a6f56fe49",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "Feedback2",
+          "persistentUuid": "a279b278-f7af-4512-8b3e-4f0e2cda4243",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "Feedback3",
+          "persistentUuid": "58e030f3-6ba4-4df2-a0cd-11df75d5fbb5",
+          "type": "string",
+          "value": ""
+        }
+      ],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PromptText",
+          "persistentUuid": "5290da2f-4284-40a7-8887-e85ecd37f40a",
+          "width": 0,
+          "x": 100,
+          "y": 60,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "AnswerText1",
+          "persistentUuid": "62de57d1-533d-4a47-8a64-5d7882a33606",
+          "width": 0,
+          "x": 100,
+          "y": 220,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "AnswerText2",
+          "persistentUuid": "ce26204b-c918-43d9-b4a3-df2fc27c5c9e",
+          "width": 0,
+          "x": 100,
+          "y": 300,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "AnswerText3",
+          "persistentUuid": "f3ee3854-fdec-470f-adcc-6d71bcdd82f9",
+          "width": 0,
+          "x": 100,
+          "y": 380,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "FeedbackText",
+          "persistentUuid": "f4b61ffc-489d-4879-987b-e63e8fc048be",
+          "width": 0,
+          "x": 100,
+          "y": 500,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "PromptText",
+          "persistentUuid": "6c121c74-43d9-42b0-b1bf-d8323681ce5b",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "You walk into the kitchen and see a puddle of water on the floor. What should you do?",
+          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 35,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "You walk into the kitchen and see a puddle of water on the floor. What should you do?",
+            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 35,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "AnswerText1",
+          "persistentUuid": "b198003d-6f18-48ee-83c1-9df6f059134a",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "A. Run across it to get to the other side.",
+          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 25,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "A. Run across it to get to the other side.",
+            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 25,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "AnswerText2",
+          "persistentUuid": "d68bd4c7-a5b2-4a30-9c89-e1eaa78dccfa",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "B. Walk around it and tell a grown-up.",
+          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 25,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "B. Walk around it and tell a grown-up.",
+            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 25,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "AnswerText3",
+          "persistentUuid": "e2b5f6d3-eeda-4790-90b1-c472eb97e52f",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "C. Ignore it and keep playing nearby.",
+          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 25,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "C. Ignore it and keep playing nearby.",
+            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 25,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "FeedbackText",
+          "persistentUuid": "82b9b428-0664-447a-93c1-1a361dd3c1fd",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Tap an answer.",
+          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 25,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Tap an answer.",
+            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 25,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "PromptText"
+          },
+          {
+            "objectName": "AnswerText1"
+          },
+          {
+            "objectName": "AnswerText2"
+          },
+          {
+            "objectName": "AnswerText3"
+          },
+          {
+            "objectName": "FeedbackText"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "AnswerText1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "UI",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
       ]
     },
     {
-      "description": "Clicking an NPC sends the player walking to it, reaching it opens the dialog, and saying yes makes the NPC leave.",
-      "name": "Talking to an NPC and saying yes",
-      "type": "gameplay",
-      "source": [
-        "// Talking to an NPC: clicking one picks it and sends the player walking",
-        "// there, walking into it opens the dialog, and saying yes makes it leave.",
-        "await harness.goToScene('Game Scene');",
-        "harness.watch('NPC');",
-        "",
-        "const getPlayer = () => harness.getObjects('Player')[0];",
-        "const dialogLayer = harness.getRuntimeLayer('Dialog layer');",
-        "const isDialogOpen = () => dialogLayer.isVisible();",
-        "const getDialog = () => harness.getObjects('TwoChoicesDialogBox')[0];",
-        "",
-        "/** Click on a point of a layer. */",
-        "const clickAt = async (x, y, layerName) => {",
-        "  harness.setMousePosition(x, y, layerName);",
-        "  await harness.stepFrames(2);",
-        "  harness.setMouseButtonPressed(true);",
-        "  await harness.stepFrames(3);",
-        "  harness.setMouseButtonPressed(false);",
-        "  await harness.stepFrames(3);",
-        "};",
-        "",
-        "await harness.stepFrames(3);",
-        "// Nobody is being talked to when the level starts: the dialog below can only",
-        "// come from the click.",
-        "harness.assert(!isDialogOpen(), 'No dialog is open before talking to anyone.');",
-        "",
-        "const npcsBefore = harness.getObjects('NPC').length;",
-        "harness.assert(npcsBefore > 0, 'There are NPCs to talk to.');",
-        "",
-        "// Click on the nearest NPC. The characters' origins sit at their feet, so the",
-        "// NPC's own position is both a point on it (clicking there picks it as the",
-        "// one to talk to) and a walkable spot on the floor (where the same click",
-        "// sends the player).",
-        "const npc = harness.getNearby('NPC', 'Player', 9000)[0];",
-        "harness.assert(!!npc, 'There is an NPC to walk to.');",
-        "console.log(",
-        "  'npc=' + npc.id + ' feet at ' + Math.round(npc.x) + ',' + Math.round(npc.y) +",
-        "    ' npcsBefore=' + npcsBefore",
-        ");",
-        "await clickAt(npc.x, npc.y, npc.layer);",
-        "",
-        "// The dialog only opens once the player has walked all the way to the NPC.",
-        "const opened = await harness.stepUntil(isDialogOpen, { maxFrames: 300 });",
-        "console.log(",
-        "  'dialogOpened=' + opened +",
-        "    ' playerAt=' + Math.round(getPlayer().x) + ',' + Math.round(getPlayer().y)",
-        ");",
-        "harness.assert(",
-        "  opened,",
-        "  'Clicking an NPC sends the player to it, and the dialog opens when it gets there.'",
-        ");",
-        "harness.assert(",
-        "  harness.getObjects('NPC').length === npcsBefore,",
-        "  'Opening the dialog does not make the NPC leave on its own.'",
-        ");",
-        "",
-        "// Saying yes is what makes the NPC leave.",
-        "const yes = getDialog().children.YesButton[0];",
-        "await clickAt(yes.centerX, yes.centerY, yes.layer);",
-        "await harness.stepFrames(5);",
-        "",
-        "const npcsAfter = harness.getObjects('NPC').length;",
-        "console.log('npcsAfter=' + npcsAfter + ' dialogStillOpen=' + isDialogOpen());",
-        "harness.assert(",
-        "  npcsAfter === npcsBefore - 1,",
-        "  'Saying yes makes the NPC leave (' + npcsAfter + ' NPCs left of ' + npcsBefore + ').'",
-        ");",
-        "harness.assert(",
-        "  !harness.getObjects('NPC').some((one) => one.id === npc.id),",
-        "  'The NPC that was talked to is the one that left.'",
-        ");",
-        "harness.assert(!isDialogOpen(), 'The dialog closes once it is answered.');",
-        "",
-        "// A picture of what the game looks like once this has happened, kept with",
-        "// the test results.",
-        "await harness.takeScreenshot('the scene after the NPC agreed to leave');"
-      ]
+      "b": 231,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "EndScene",
+      "name": "EndScene",
+      "r": 255,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 248,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
+  "externalEvents": [],
   "eventsFunctionsExtensions": [
     {
       "author": "",
@@ -19399,7 +18937,7 @@
       "name": "PanelSpriteButton",
       "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Line Hero Pack/Master/SVG/Interface Elements/Interface Elements_interface_ui_button_ok_cta_clock_tap.svg",
       "shortDescription": "Resizeable button with a label.",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "description": [
         "A button that can be used for menus and most labelled buttons of a game. The button can be customized with a background for each state and a label. It handles user interactions and a simple condition can be used to check if it is clicked.",
         "",
@@ -24047,6 +23585,1354 @@
                 }
               ],
               "editionSettings": {}
+            },
+            {
+              "areaMaxX": 256,
+              "areaMaxY": 128,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "assetStoreAssetId": "055eaaaceaa6fa09820aff95e0291764fbd98d84a9c2fb8cb3c4e059010a477b",
+              "assetStoreOriginalName": "Yellow Jelly Button",
+              "name": "Yellow Jelly Button",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "TextStyleState",
+                      "type": "PanelSpriteButton::TextStyleState",
+                      "ShouldEnableOutlineOnHover": false,
+                      "HoverColor": "",
+                      "ShouldEnableShadowOnHover": false,
+                      "HoverFontSize": 0,
+                      "IsHovered": false,
+                      "IdleFontSize": 0,
+                      "IdleColor": ""
+                    }
+                  ],
+                  "string": "Button",
+                  "font": "Rubik-Regular.ttf",
+                  "textAlignment": "center",
+                  "characterSize": 60,
+                  "color": {
+                    "b": 0,
+                    "g": 42,
+                    "r": 117
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "Button",
+                    "font": "Rubik-Regular.ttf",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 60,
+                    "lineHeight": 0,
+                    "color": "117;42;0"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 50,
+                  "height": 128,
+                  "leftMargin": 37,
+                  "name": "Idle",
+                  "rightMargin": 32,
+                  "texture": "Yellow Jelly Button_Idle.png",
+                  "tiled": false,
+                  "topMargin": 50,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "serializedBehavior": {
+                        "name": "ButtonFSM",
+                        "type": "PanelSpriteButton::ButtonFSM",
+                        "ShouldCheckHovering": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 50,
+                  "height": 128,
+                  "leftMargin": 37,
+                  "name": "Hovered",
+                  "rightMargin": 32,
+                  "texture": "Yellow Jelly Button_Hovered.png",
+                  "tiled": false,
+                  "topMargin": 50,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior",
+                      "serializedBehavior": {
+                        "name": "Tween",
+                        "type": "Tween::TweenBehavior"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 50,
+                  "height": 128,
+                  "leftMargin": 37,
+                  "name": "Pressed",
+                  "rightMargin": 32,
+                  "texture": "Yellow Jelly Button_Pressed.png",
+                  "tiled": false,
+                  "topMargin": 50,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "name": "BitmapLabel",
+                  "type": "BitmapText::BitmapTextObject",
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "BitmapTextStyleState",
+                      "type": "PanelSpriteButton::BitmapTextStyleState",
+                      "HoverColor": "",
+                      "HoverPrefix": "",
+                      "HoverSuffix": "",
+                      "IsHovered": false,
+                      "IdleText": "",
+                      "IdleColor": ""
+                    }
+                  ],
+                  "content": {
+                    "text": "Text",
+                    "opacity": 255,
+                    "scale": 1,
+                    "fontSize": 20,
+                    "tint": "255;255;255",
+                    "bitmapFontResourceName": "",
+                    "textureAtlasResourceName": "",
+                    "align": "center",
+                    "verticalTextAlignment": "center"
+                  }
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  },
+                  {
+                    "objectName": "BitmapLabel"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                },
+                {
+                  "name": "Labels",
+                  "objects": [
+                    {
+                      "name": "Label"
+                    },
+                    {
+                      "name": "BitmapLabel"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": false,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 64,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 113,
+                  "keepRatio": true,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "33a12e08-30a5-4a5a-8681-5ebb2d713ec9",
+                  "width": 246,
+                  "x": 5,
+                  "y": 57,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": []
+            },
+            {
+              "areaMaxX": 256,
+              "areaMaxY": 128,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "assetStoreAssetId": "02cb22c03a7c7f9262819832f0fea819fc5021f2b7a8854eb99d6ff20f180d66",
+              "assetStoreOriginalName": "White Sleek Button",
+              "name": "White Sleek Button",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "TextStyleState",
+                      "type": "PanelSpriteButton::TextStyleState",
+                      "ShouldEnableOutlineOnHover": false,
+                      "HoverColor": "",
+                      "ShouldEnableShadowOnHover": false,
+                      "HoverFontSize": 0,
+                      "IsHovered": false,
+                      "IdleFontSize": 0,
+                      "IdleColor": ""
+                    }
+                  ],
+                  "string": "Button",
+                  "font": "WorkSans-Regular.ttf",
+                  "textAlignment": "center",
+                  "characterSize": 60,
+                  "color": {
+                    "b": 95,
+                    "g": 23,
+                    "r": 6
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "Button",
+                    "font": "WorkSans-Regular.ttf",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 60,
+                    "lineHeight": 0,
+                    "color": "6;23;95"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 55,
+                  "height": 128,
+                  "leftMargin": 40,
+                  "name": "Idle",
+                  "rightMargin": 40,
+                  "texture": "White Sleek Button_Idle.png",
+                  "tiled": false,
+                  "topMargin": 37,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "serializedBehavior": {
+                        "name": "ButtonFSM",
+                        "type": "PanelSpriteButton::ButtonFSM",
+                        "ShouldCheckHovering": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 55,
+                  "height": 128,
+                  "leftMargin": 40,
+                  "name": "Hovered",
+                  "rightMargin": 40,
+                  "texture": "White Sleek Button_Hovered.png",
+                  "tiled": false,
+                  "topMargin": 37,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior",
+                      "serializedBehavior": {
+                        "name": "Tween",
+                        "type": "Tween::TweenBehavior"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 55,
+                  "height": 128,
+                  "leftMargin": 40,
+                  "name": "Pressed",
+                  "rightMargin": 40,
+                  "texture": "White Sleek Button_Pressed.png",
+                  "tiled": false,
+                  "topMargin": 37,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "name": "BitmapLabel",
+                  "type": "BitmapText::BitmapTextObject",
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "BitmapTextStyleState",
+                      "type": "PanelSpriteButton::BitmapTextStyleState",
+                      "HoverColor": "",
+                      "HoverPrefix": "",
+                      "HoverSuffix": "",
+                      "IsHovered": false,
+                      "IdleText": "",
+                      "IdleColor": ""
+                    }
+                  ],
+                  "content": {
+                    "text": "Text",
+                    "opacity": 255,
+                    "scale": 1,
+                    "fontSize": 20,
+                    "tint": "255;255;255",
+                    "bitmapFontResourceName": "",
+                    "textureAtlasResourceName": "",
+                    "align": "center",
+                    "verticalTextAlignment": "center"
+                  }
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  },
+                  {
+                    "objectName": "BitmapLabel"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                },
+                {
+                  "name": "Labels",
+                  "objects": [
+                    {
+                      "name": "Label"
+                    },
+                    {
+                      "name": "BitmapLabel"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": false,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 64,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 91,
+                  "keepRatio": true,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "7df63a22-6895-44c6-8efb-68973d5a0ef1",
+                  "width": 233,
+                  "x": 12,
+                  "y": 52,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": []
+            },
+            {
+              "areaMaxX": 192,
+              "areaMaxY": 64,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "assetStoreAssetId": "0d2644a425931f79026065835332ea795353d1f99fcd6ccd47ab7927bd0f35ed",
+              "assetStoreOriginalName": "Black Square Decorated Button",
+              "name": "Black Square Decorated Button",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "TextStyleState",
+                      "type": "PanelSpriteButton::TextStyleState",
+                      "ShouldEnableOutlineOnHover": false,
+                      "HoverColor": "",
+                      "ShouldEnableShadowOnHover": false,
+                      "HoverFontSize": 0,
+                      "IsHovered": false,
+                      "IdleFontSize": 0,
+                      "IdleColor": ""
+                    }
+                  ],
+                  "string": "Button",
+                  "font": "mononoki-Regular.ttf",
+                  "textAlignment": "center",
+                  "characterSize": 26,
+                  "color": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "Button",
+                    "font": "mononoki-Regular.ttf",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 26,
+                    "lineHeight": 0,
+                    "color": "255;255;255"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 22,
+                  "height": 64,
+                  "leftMargin": 16,
+                  "name": "Idle",
+                  "rightMargin": 16,
+                  "texture": "Black Square Decorated Button_Idle.png",
+                  "tiled": false,
+                  "topMargin": 16,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "serializedBehavior": {
+                        "name": "ButtonFSM",
+                        "type": "PanelSpriteButton::ButtonFSM",
+                        "ShouldCheckHovering": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 22,
+                  "height": 64,
+                  "leftMargin": 16,
+                  "name": "Hovered",
+                  "rightMargin": 16,
+                  "texture": "Black Square Decorated Button_Hovered.png",
+                  "tiled": false,
+                  "topMargin": 16,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior",
+                      "serializedBehavior": {
+                        "name": "Tween",
+                        "type": "Tween::TweenBehavior"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 16,
+                  "height": 64,
+                  "leftMargin": 16,
+                  "name": "Pressed",
+                  "rightMargin": 16,
+                  "texture": "Black Square Decorated Button_Pressed.png",
+                  "tiled": false,
+                  "topMargin": 22,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "name": "BitmapLabel",
+                  "type": "BitmapText::BitmapTextObject",
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "BitmapTextStyleState",
+                      "type": "PanelSpriteButton::BitmapTextStyleState",
+                      "HoverColor": "",
+                      "HoverPrefix": "",
+                      "HoverSuffix": "",
+                      "IsHovered": false,
+                      "IdleText": "",
+                      "IdleColor": ""
+                    }
+                  ],
+                  "content": {
+                    "text": "Text",
+                    "opacity": 255,
+                    "scale": 1,
+                    "fontSize": 20,
+                    "tint": "255;255;255",
+                    "bitmapFontResourceName": "",
+                    "textureAtlasResourceName": "",
+                    "align": "center",
+                    "verticalTextAlignment": "center"
+                  }
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  },
+                  {
+                    "objectName": "BitmapLabel"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                },
+                {
+                  "name": "Labels",
+                  "objects": [
+                    {
+                      "name": "Label"
+                    },
+                    {
+                      "name": "BitmapLabel"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": false,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 64,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 54,
+                  "keepRatio": true,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "45b09b9e-dba3-4877-a4d0-a7bc8c4cea28",
+                  "width": 166,
+                  "x": 13,
+                  "y": 29,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": []
+            },
+            {
+              "areaMaxX": 192,
+              "areaMaxY": 64,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "assetStoreAssetId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
+              "assetStoreOriginalName": "Medieval Button Brown",
+              "name": "Medieval Button Brown",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "TextStyleState",
+                      "type": "PanelSpriteButton::TextStyleState",
+                      "ShouldEnableOutlineOnHover": false,
+                      "HoverColor": "",
+                      "ShouldEnableShadowOnHover": false,
+                      "HoverFontSize": 0,
+                      "IsHovered": false,
+                      "IdleFontSize": 0,
+                      "IdleColor": ""
+                    }
+                  ],
+                  "string": "Button",
+                  "font": "CaveatBrush-Regular.ttf",
+                  "textAlignment": "center",
+                  "characterSize": 40,
+                  "color": {
+                    "b": 159,
+                    "g": 190,
+                    "r": 219
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "Button",
+                    "font": "CaveatBrush-Regular.ttf",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 40,
+                    "lineHeight": 0,
+                    "color": "219;190;159"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 11,
+                  "height": 64,
+                  "leftMargin": 7,
+                  "name": "Idle",
+                  "rightMargin": 7,
+                  "texture": "Medieval Button Brown_Idle.png",
+                  "tiled": false,
+                  "topMargin": 7,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "serializedBehavior": {
+                        "name": "ButtonFSM",
+                        "type": "PanelSpriteButton::ButtonFSM",
+                        "ShouldCheckHovering": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 11,
+                  "height": 64,
+                  "leftMargin": 7,
+                  "name": "Hovered",
+                  "rightMargin": 7,
+                  "texture": "Medieval Button Brown_Hovered.png",
+                  "tiled": false,
+                  "topMargin": 7,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior",
+                      "serializedBehavior": {
+                        "name": "Tween",
+                        "type": "Tween::TweenBehavior"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 7,
+                  "height": 64,
+                  "leftMargin": 7,
+                  "name": "Pressed",
+                  "rightMargin": 7,
+                  "texture": "Medieval Button Brown_Pressed.png",
+                  "tiled": false,
+                  "topMargin": 11,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "name": "BitmapLabel",
+                  "type": "BitmapText::BitmapTextObject",
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "BitmapTextStyleState",
+                      "type": "PanelSpriteButton::BitmapTextStyleState",
+                      "HoverColor": "",
+                      "HoverPrefix": "",
+                      "HoverSuffix": "",
+                      "IsHovered": false,
+                      "IdleText": "",
+                      "IdleColor": ""
+                    }
+                  ],
+                  "content": {
+                    "text": "Text",
+                    "opacity": 255,
+                    "scale": 1,
+                    "fontSize": 20,
+                    "tint": "255;255;255",
+                    "bitmapFontResourceName": "",
+                    "textureAtlasResourceName": "",
+                    "align": "center",
+                    "verticalTextAlignment": "center"
+                  }
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  },
+                  {
+                    "objectName": "BitmapLabel"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                },
+                {
+                  "name": "Labels",
+                  "objects": [
+                    {
+                      "name": "Label"
+                    },
+                    {
+                      "name": "BitmapLabel"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": false,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 64,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 52,
+                  "keepRatio": true,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "db8de6d9-0a01-4de7-bdbc-4883e490e7f7",
+                  "width": 184,
+                  "x": 4,
+                  "y": 30,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": []
             }
           ]
         }
