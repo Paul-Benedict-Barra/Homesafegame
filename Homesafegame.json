@@ -139,160 +139,6 @@
         }
       },
       {
-        "file": "assets/StartingPlayer_Right.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/StartingPlayer_Right.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/StartingPlayer_Down.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/StartingPlayer_Down.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/StartingPlayer_Left.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/StartingPlayer_Left.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/StartingPlayer_Up.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/StartingPlayer_Up.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/DirtParticle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/DirtParticle.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/starting_bookopen.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "assets/starting_bookopen.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": true,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/starter_pop.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "assets/starter_pop.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": true,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Yellow Jelly Button_Hovered.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Yellow Jelly Button_Hovered.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5cc04ef76aad172a63070469c328ceb3f74207115ad9c2321ccfe0d5755677a0_Yellow Jelly Button_Hovered.png",
-          "name": "Yellow Jelly Button_Hovered.png"
-        }
-      },
-      {
-        "file": "assets/Yellow Jelly Button_Idle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Yellow Jelly Button_Idle.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/04f6f22d3160fa528875b199bb7bd4f35cf3f20fb8fde4a5d960f01df9bee3a3_Yellow Jelly Button_Idle.png",
-          "name": "Yellow Jelly Button_Idle.png"
-        }
-      },
-      {
-        "file": "assets/Yellow Jelly Button_Pressed.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Yellow Jelly Button_Pressed.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/11abe8b7d577c30b71789404003c50b3fe73d63492fd30669a5153bc67ac0a60_Yellow Jelly Button_Pressed.png",
-          "name": "Yellow Jelly Button_Pressed.png"
-        }
-      },
-      {
-        "file": "assets/Rubik-Regular.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "Rubik-Regular.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/edbc88d46437d6403d3670eb084bcbdf08872c9f54a34ed1536c1013c412bd3b_Rubik-Regular.ttf",
-          "name": "Rubik-Regular.ttf"
-        }
-      },
-      {
-        "file": "assets/White Sleek Button_Hovered.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "White Sleek Button_Hovered.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f6cc4ba876203745a8518ced52d0d773ff01ff8a63cdd9ac24388e5f3623cb48_White Sleek Button_Hovered.png",
-          "name": "White Sleek Button_Hovered.png"
-        }
-      },
-      {
-        "file": "assets/White Sleek Button_Idle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "White Sleek Button_Idle.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4d6db3c01bcade6c9060eb7bb37090777c228a29da7c5f25480b0cdedd37dc98_White Sleek Button_Idle.png",
-          "name": "White Sleek Button_Idle.png"
-        }
-      },
-      {
-        "file": "assets/White Sleek Button_Pressed.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "White Sleek Button_Pressed.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1e0387e7db58479ccb896a55b62f6db0955c926ad0f92a28d4306045c44245b2_White Sleek Button_Pressed.png",
-          "name": "White Sleek Button_Pressed.png"
-        }
-      },
-      {
-        "file": "assets/WorkSans-Regular.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "WorkSans-Regular.ttf",
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
-          "name": "WorkSans-Regular.ttf"
-        }
-      },
-      {
         "file": "assets/CaveatBrush-Regular.ttf",
         "kind": "font",
         "metadata": "",
@@ -301,53 +147,6 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
           "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/Black Square Decorated Button_Hovered.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Black Square Decorated Button_Hovered.png",
-        "smoothed": true,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f412f1600c8331cf72f89d4bd00ce33a91d18553dea6d91ae71966a24c659e9a_Black Square Decorated Button_Hovered.png",
-          "name": "Black Square Decorated Button_Hovered.png"
-        }
-      },
-      {
-        "file": "assets/Black Square Decorated Button_Idle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Black Square Decorated Button_Idle.png",
-        "smoothed": true,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/a33bd108a01f89ef1fe8d695b6b060e19ec466e4fce2d728ed93fb2b96ebd768_Black Square Decorated Button_Idle.png",
-          "name": "Black Square Decorated Button_Idle.png"
-        }
-      },
-      {
-        "file": "assets/Black Square Decorated Button_Pressed.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Black Square Decorated Button_Pressed.png",
-        "smoothed": true,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c772df82fc56543546eea5576b02f73253eaf5683120a331581f0b85664f62af_Black Square Decorated Button_Pressed.png",
-          "name": "Black Square Decorated Button_Pressed.png"
-        }
-      },
-      {
-        "file": "assets/mononoki-Regular.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "mononoki-Regular.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7423149de6e486ac885567761bef3236bcdb8414d05cb0920ae7aedffdec85f9_mononoki-Regular.ttf",
-          "name": "mononoki-Regular.ttf"
         }
       },
       {
@@ -387,14 +186,1419 @@
         }
       },
       {
-        "file": "assets/CaveatBrush-Regular2.ttf",
-        "kind": "font",
+        "file": "assets/floor gray.png",
+        "kind": "image",
         "metadata": "",
-        "name": "CaveatBrush-Regular.ttf",
+        "name": "floor gray.png",
+        "smoothed": true,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
-          "name": "CaveatBrush-Regular.ttf"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/49b1a3415b18a25bcc9cd3bc4f15cd06e0d3b00b9927824a009b9bf75561d8bb_floor gray.png",
+          "name": "floor gray.png"
+        }
+      },
+      {
+        "file": "assets/floor checkered white.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor checkered white.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/381ebe3662dd0c8a30aef69554ad0814afd27c8531ff0c34fca82ff5536ceec0_floor checkered white.png",
+          "name": "floor checkered white.png"
+        }
+      },
+      {
+        "file": "assets/floor checkered blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor checkered blue.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/a88024627b15311ce3c92fe715878b74c191ae1a22d564a975f7113c97d290c6_floor checkered blue.png",
+          "name": "floor checkered blue.png"
+        }
+      },
+      {
+        "file": "assets/floor brown.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor brown.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/c1f7c4554175724ed25c21af3e4e46edf97da56d0fce4533224c8a26d942853d_floor brown.png",
+          "name": "floor brown.png"
+        }
+      },
+      {
+        "file": "assets/floor blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor blue.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/22e95270f8c9b00338cb6815d5a2bee5b0fb0b046ceffc50a9534c6436719ba7_floor blue.png",
+          "name": "floor blue.png"
+        }
+      },
+      {
+        "file": "assets/floor olive.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor olive.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/5e0b052971523f4e408a75bf5200432cd657d3b0a24049860e0f2490d3b7b81d_floor olive.png",
+          "name": "floor olive.png"
+        }
+      },
+      {
+        "file": "assets/floor white.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor white.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/819505e68b65b6bd5aec3d0812340740ee6c1f658edf7f211cd6b47d22a3e54d_floor white.png",
+          "name": "floor white.png"
+        }
+      },
+      {
+        "file": "assets/floor seam gray_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor seam gray_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/0db687d2dae5e4b6a566ecf7b338652e98757e27cc05ab526331de53b5a23eca_floor seam gray_a.png",
+          "name": "floor seam gray_a.png"
+        }
+      },
+      {
+        "file": "assets/floor seam gray_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor seam gray_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/f08adc3c5165914fd21b34c3634c565ddece961dd55623c9210eee6aaaac7f49_floor seam gray_b.png",
+          "name": "floor seam gray_b.png"
+        }
+      },
+      {
+        "file": "assets/floor purple.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor purple.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/a853de21c4bf3d6e36203ded45cfeb6c5f4f7538e0ff0a06e27902264377cded_floor purple.png",
+          "name": "floor purple.png"
+        }
+      },
+      {
+        "file": "assets/floor teal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor teal.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/0f0c6a4f352c35e918181bf97f35ef2fe8ed02ebb3273b2dfb7794f6e690b7b5_floor teal.png",
+          "name": "floor teal.png"
+        }
+      },
+      {
+        "file": "assets/floor seam black_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor seam black_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/8a7d31f0f6b955f4c676abc606a09e27709d827c44a73c20228600368fdfbf92_floor seam black_a.png",
+          "name": "floor seam black_a.png"
+        }
+      },
+      {
+        "file": "assets/floor seam black_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor seam black_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/2712abf5eec9363db8db717286dba041b18a7223fbed37bb26dce1f011e6e1b8_floor seam black_b.png",
+          "name": "floor seam black_b.png"
+        }
+      },
+      {
+        "file": "assets/floor yellow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor yellow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/af06f43f522aa9402f6dfb2e0ac35ff71dc9f9995c139c5a107016a4e4b58ebf_floor yellow.png",
+          "name": "floor yellow.png"
+        }
+      },
+      {
+        "file": "assets/bed green_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed green_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/17343fe8ae36b5e49baabbf7dacc88b366f58c8af0d7e356c5f63873e864e0aa_bed green_a.png",
+          "name": "bed green_a.png"
+        }
+      },
+      {
+        "file": "assets/bed green_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed green_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/f2e0ded04051666c3bb9b0590b76e705339eaea4b8f8c9298247f54867bbd78e_bed green_b.png",
+          "name": "bed green_b.png"
+        }
+      },
+      {
+        "file": "assets/bed pink_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed pink_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/911b805e28ab59910fbcdf553ba6f8dd4206903df067a3943441b80d8c9480b1_bed pink_a.png",
+          "name": "bed pink_a.png"
+        }
+      },
+      {
+        "file": "assets/bed pink_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed pink_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/6d8418e7d442ac8fe799618173aee4628d90e615b92e059d7866d5e45b4ab659_bed pink_b.png",
+          "name": "bed pink_b.png"
+        }
+      },
+      {
+        "file": "assets/stairs brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stairs brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/c7ef8365dd04050dcd6384b31905fb763c182d624d47b6d8a90e77db8611636d_stairs brown_a.png",
+          "name": "stairs brown_a.png"
+        }
+      },
+      {
+        "file": "assets/stairs brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stairs brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/64324822d2e201ce32ffe21fab7b97eb7fb1ca5564079e8d35178198fab9c43d_stairs brown_b.png",
+          "name": "stairs brown_b.png"
+        }
+      },
+      {
+        "file": "assets/stairs gray_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stairs gray_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/0989b60897943ddb4ebe7055a8a187490cf03cda015302bfbb1cf50e75e73b17_stairs gray_a.png",
+          "name": "stairs gray_a.png"
+        }
+      },
+      {
+        "file": "assets/stairs gray_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stairs gray_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/c7952f018a0cccf6a9249a3e3d71cee63523920bc92d98333d00be922d43e955_stairs gray_b.png",
+          "name": "stairs gray_b.png"
+        }
+      },
+      {
+        "file": "assets/bed white_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed white_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/651a0064c71c6d292fc1605f3142afadcc21f209fc168c645908a42f3b552fad_bed white_a.png",
+          "name": "bed white_a.png"
+        }
+      },
+      {
+        "file": "assets/bed white_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed white_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/d954013d13cccb6651364c613a70769f418b87947d5c1c6a80501f8671c009a9_bed white_b.png",
+          "name": "bed white_b.png"
+        }
+      },
+      {
+        "file": "assets/bookshelf brown books_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bookshelf brown books_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/be4b5ecc7b02f4cdfe2797245dde12c954683312a69cdcf56bff222aaa166bc4_bookshelf brown books_a.png",
+          "name": "bookshelf brown books_a.png"
+        }
+      },
+      {
+        "file": "assets/bookshelf brown books_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bookshelf brown books_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/cddd7aef1ffc837f73d0f21eef7341def1b6001beb59a6758a23d7bbb8fbd054_bookshelf brown books_b.png",
+          "name": "bookshelf brown books_b.png"
+        }
+      },
+      {
+        "file": "assets/bookshelf brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bookshelf brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/831b95329a2011507b8f367bb2efba059d599e078307dc90f49ea9514b16280a_bookshelf brown_a.png",
+          "name": "bookshelf brown_a.png"
+        }
+      },
+      {
+        "file": "assets/bookshelf brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bookshelf brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/0cd9022ab85e416413195fbe98f3c40e5db27899d0979ba70471561baeae9df9_bookshelf brown_b.png",
+          "name": "bookshelf brown_b.png"
+        }
+      },
+      {
+        "file": "assets/bookshelf red_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bookshelf red_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/92714566c0e065e5bbcb194e492387dd113e5cddcceb20ce00f4836608832528_bookshelf red_a.png",
+          "name": "bookshelf red_a.png"
+        }
+      },
+      {
+        "file": "assets/bookshelf red_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bookshelf red_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/92136f231d4104f241ae5ef28bdb95e0edf6ca894e2f43869246963b46a86d9b_bookshelf red_b.png",
+          "name": "bookshelf red_b.png"
+        }
+      },
+      {
+        "file": "assets/bookshelf red books_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bookshelf red books_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/cc5abeafe8feb85a919f2dcecf6374dea4f1fa918973bf1db0f07395fd31772b_bookshelf red books_a.png",
+          "name": "bookshelf red books_a.png"
+        }
+      },
+      {
+        "file": "assets/bookshelf red books_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bookshelf red books_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/ba111420bdee6bd0d9293f9695478a3a81405a71ea4b6e66c993f4a42b38fd7b_bookshelf red books_b.png",
+          "name": "bookshelf red books_b.png"
+        }
+      },
+      {
+        "file": "assets/chair brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chair brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/38381744607067ea01d9e2dc10ec491dd8418489425941bb775aac1fd15806ac_chair brown_a.png",
+          "name": "chair brown_a.png"
+        }
+      },
+      {
+        "file": "assets/chair brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chair brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/71fd2359fdf848a87b67654316641b0f5144be26792b658b4a0e562755320ddf_chair brown_b.png",
+          "name": "chair brown_b.png"
+        }
+      },
+      {
+        "file": "assets/chair brown_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chair brown_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/773af64529676b9ca57b971f48e35ccd414a01249606e43b5ef5566e3eab8c10_chair brown_c.png",
+          "name": "chair brown_c.png"
+        }
+      },
+      {
+        "file": "assets/chair brown_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chair brown_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/7008f50f63f8a82e874bd2a14112507ebcce50a3d36bc333aafee574bd48e3b3_chair brown_d.png",
+          "name": "chair brown_d.png"
+        }
+      },
+      {
+        "file": "assets/chair green_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chair green_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/eae904dfbfea64ef9dc67c37e72bb959d35b79e255ae07ed3c2d0d3d3d7cd4a2_chair green_a.png",
+          "name": "chair green_a.png"
+        }
+      },
+      {
+        "file": "assets/chair green_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chair green_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/56fe39e2d6de0acbf9e2efae588a57538db69f84fd22ca0ceec23cc2ab77dcb7_chair green_b.png",
+          "name": "chair green_b.png"
+        }
+      },
+      {
+        "file": "assets/chair green_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chair green_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/09aa698da76b2ca6e60d699a97d09da668481b3a17e13f1a77a30e286f7b7304_chair green_c.png",
+          "name": "chair green_c.png"
+        }
+      },
+      {
+        "file": "assets/chair green_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chair green_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/eab96006fc28d2e41b265ac3c8ea67a802ca7952e73eb3c35de1413b01b52723_chair green_d.png",
+          "name": "chair green_d.png"
+        }
+      },
+      {
+        "file": "assets/coffee table green.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "coffee table green.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/7dbee504f820ee290abbe059de4b9174085332115de5eed39ac87cad142532d3_coffee table green.png",
+          "name": "coffee table green.png"
+        }
+      },
+      {
+        "file": "assets/coffee table gray.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "coffee table gray.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/4a3cd72f03d8fd57c6de2368aed112ae26886aeb92a8e7dcd1881d5da9289cd7_coffee table gray.png",
+          "name": "coffee table gray.png"
+        }
+      },
+      {
+        "file": "assets/coffee table red.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "coffee table red.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/6eec1a7289118ff6dd8dcb89292b7ada10133f62856fe0405cfe5957076d2d44_coffee table red.png",
+          "name": "coffee table red.png"
+        }
+      },
+      {
+        "file": "assets/coffee table tan.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "coffee table tan.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/88a5b4e18a162d0c30913012fa2e4529e9911d243ec6abfbc579b08848d36b52_coffee table tan.png",
+          "name": "coffee table tan.png"
+        }
+      },
+      {
+        "file": "assets/desk black_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desk black_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/99892882151da9b17d716081cab25d38e016bbbad341ae92521f97b7a5ecec68_desk black_a.png",
+          "name": "desk black_a.png"
+        }
+      },
+      {
+        "file": "assets/desk black_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desk black_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/5de9a9fdbfe7ae401c72ce4e0b3a83f599a444d0c6921732194bdabd62794bc9_desk black_b.png",
+          "name": "desk black_b.png"
+        }
+      },
+      {
+        "file": "assets/desk brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desk brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/dc5d4cbd58bfd50cad4715f3c2136204b8073bd5f01b07445180998a25ccc08d_desk brown_a.png",
+          "name": "desk brown_a.png"
+        }
+      },
+      {
+        "file": "assets/desk brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desk brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/50ba73688a2c10c44d27f69f3e8d4789c2a82db837a09b7a631a50540f1fce2a_desk brown_b.png",
+          "name": "desk brown_b.png"
+        }
+      },
+      {
+        "file": "assets/bed brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/c65991919fa180002d20de9d6f76dd615218af163927be80349b1b470f41eb64_bed brown_a.png",
+          "name": "bed brown_a.png"
+        }
+      },
+      {
+        "file": "assets/bed brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/58c91cbfbc4e98f3088e38dc4ec592c9baa5b24cdfb2deb7092a35cb94f84827_bed brown_b.png",
+          "name": "bed brown_b.png"
+        }
+      },
+      {
+        "file": "assets/desk red_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desk red_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/5c648bdb77dabaa57c54970e419360d9d90b467df45e1bf0bbbdb962ca60112a_desk red_a.png",
+          "name": "desk red_a.png"
+        }
+      },
+      {
+        "file": "assets/desk red_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desk red_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/da5967230b7ec009c727447f0e04055ee61b02c4fd46000a2265f5c3b4b31c09_desk red_b.png",
+          "name": "desk red_b.png"
+        }
+      },
+      {
+        "file": "assets/desk white_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desk white_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/09e4ac8299c45fad4e91bf9281004752700cbd378c4a5fc8e118c890c0e38d49_desk white_a.png",
+          "name": "desk white_a.png"
+        }
+      },
+      {
+        "file": "assets/desk white_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "desk white_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/f3d33fce64eeb257492f9ff9c475ac825ab177bff78207d3d4b26e89f944d567_desk white_b.png",
+          "name": "desk white_b.png"
+        }
+      },
+      {
+        "file": "assets/love seat brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/c2c69fdfca4e5717858b070e6bf0d9ba190e3a04a3917463a7688bb709901676_love seat brown_a.png",
+          "name": "love seat brown_a.png"
+        }
+      },
+      {
+        "file": "assets/love seat brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/377165afba5db4ae52059f909abdac8b286bc042f9ef536d188ed626cfe31cc7_love seat brown_b.png",
+          "name": "love seat brown_b.png"
+        }
+      },
+      {
+        "file": "assets/love seat brown_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat brown_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/6551be4aa4bac67c5733fa83c0e4f049f45ae00cc3adb6e2865e7b80e944fd88_love seat brown_c.png",
+          "name": "love seat brown_c.png"
+        }
+      },
+      {
+        "file": "assets/love seat brown_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat brown_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/f1619c8c05cc889a7d1ecb697a1b618edcba70125223095ab2ced90c8b530872_love seat brown_d.png",
+          "name": "love seat brown_d.png"
+        }
+      },
+      {
+        "file": "assets/love seat green_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat green_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/58d8c36ed0955fe918b92fc6a8fad6519dcdfc229c88be5f76efc2496606741c_love seat green_a.png",
+          "name": "love seat green_a.png"
+        }
+      },
+      {
+        "file": "assets/love seat green_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat green_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/310d5526d0344f43439ce6d758dd349302ecb950b10e87e55ceed8214073227d_love seat green_b.png",
+          "name": "love seat green_b.png"
+        }
+      },
+      {
+        "file": "assets/love seat green_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat green_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/237cc2ea7d81d0d689405d2e3e015d8ff76061b9731e0150a7ac72099e97cbbe_love seat green_c.png",
+          "name": "love seat green_c.png"
+        }
+      },
+      {
+        "file": "assets/love seat green_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat green_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/fcd68b3d9f00a113315b835a70ef7383f8d2eb2593dcf922f42512554a22cbe5_love seat green_d.png",
+          "name": "love seat green_d.png"
+        }
+      },
+      {
+        "file": "assets/love seat red_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat red_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/d6b4b17bb489b70e634ada6ee4e8fbe0b4541825ee7bf477cac33408f2076246_love seat red_a.png",
+          "name": "love seat red_a.png"
+        }
+      },
+      {
+        "file": "assets/love seat red_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat red_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/e27c1ae6bcf28e63351bbfd0170afe0f95d1cec40f6e40b5be8f5a1403881f8b_love seat red_b.png",
+          "name": "love seat red_b.png"
+        }
+      },
+      {
+        "file": "assets/love seat red_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat red_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/7e67615a45108700e4f8d94e75557b58aadfbe7a7ceba714b0464f59fbe6bf23_love seat red_c.png",
+          "name": "love seat red_c.png"
+        }
+      },
+      {
+        "file": "assets/love seat red_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat red_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/203d50efb9236d84f5cf03f013ed5d9fd0c4623a5c024de49af0bcf4ea55446b_love seat red_d.png",
+          "name": "love seat red_d.png"
+        }
+      },
+      {
+        "file": "assets/love seat gray_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat gray_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/3b8d655718a615199d10957c273648d081bdadc83df7443b361c8e95de6e63b5_love seat gray_a.png",
+          "name": "love seat gray_a.png"
+        }
+      },
+      {
+        "file": "assets/love seat gray_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat gray_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/e2a62b07397d60e69c76519ec7496229e0f8d4a54fe1a7a8ad97bdf51f7e5da4_love seat gray_b.png",
+          "name": "love seat gray_b.png"
+        }
+      },
+      {
+        "file": "assets/love seat gray_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat gray_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/712923e91a80955af521670ad1bb761e2492b20c0cac49ecd2860f2b6a9b64a5_love seat gray_c.png",
+          "name": "love seat gray_c.png"
+        }
+      },
+      {
+        "file": "assets/love seat gray_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "love seat gray_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/6effd6f63b81da2dc403063b58014c4993342def73c2448fcf8cc97336c0cdff_love seat gray_d.png",
+          "name": "love seat gray_d.png"
+        }
+      },
+      {
+        "file": "assets/sofa gray_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa gray_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/3fbc00155cfdb17e7e6cb09fcf079f9e340c122b8794e38a44444d309df37b84_sofa gray_a.png",
+          "name": "sofa gray_a.png"
+        }
+      },
+      {
+        "file": "assets/sofa gray_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa gray_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/72ef8bb5c2750b4405ee522bac6f3840031ee5db5bb4c4d69872def9aecd820e_sofa gray_b.png",
+          "name": "sofa gray_b.png"
+        }
+      },
+      {
+        "file": "assets/sofa gray_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa gray_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/f1aedf3a0c9d9972fd490c64f68f4993dd31f19adf7bd61f35c3a6781e1ea62e_sofa gray_c.png",
+          "name": "sofa gray_c.png"
+        }
+      },
+      {
+        "file": "assets/sofa gray_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa gray_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/a2eb255c5bd40b53f99ed988e8fb39e5bf3c4f211179555afd4584c3b7eff312_sofa gray_d.png",
+          "name": "sofa gray_d.png"
+        }
+      },
+      {
+        "file": "assets/sofa green_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa green_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/cd1eb8c8edce95ed4fdc8ee97b00b9248c7ea0251d610b3a3687f4703934ddd8_sofa green_a.png",
+          "name": "sofa green_a.png"
+        }
+      },
+      {
+        "file": "assets/sofa green_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa green_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/13ecccef4b7ac57964071359db03b7c3c549e8a7e2b346f0739faf0dedec5486_sofa green_b.png",
+          "name": "sofa green_b.png"
+        }
+      },
+      {
+        "file": "assets/sofa green_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa green_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/56238d762a7bcb71071bea7816733a11d371754c5f8e1a6834cb48d6e55d7af6_sofa green_c.png",
+          "name": "sofa green_c.png"
+        }
+      },
+      {
+        "file": "assets/sofa green_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa green_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/a52477d445c67edd975dcc74403e771f4fdd288cec6c6dd4b23e30f1029e54cb_sofa green_d.png",
+          "name": "sofa green_d.png"
+        }
+      },
+      {
+        "file": "assets/sofa red_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa red_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/6560465178145c77001aa3897201ac63d7b160f450f84933f6892a0c06bbb05c_sofa red_a.png",
+          "name": "sofa red_a.png"
+        }
+      },
+      {
+        "file": "assets/sofa red_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa red_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/fa7b365851bea84354059f79bdee9d31c18084162cc1c98f487daa02b6ab2dfe_sofa red_b.png",
+          "name": "sofa red_b.png"
+        }
+      },
+      {
+        "file": "assets/sofa red_c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa red_c.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/8912a0a16a2f6ff0ac15ab7ecec83682dcb594d9e7b5c6fb86895d5785c75e13_sofa red_c.png",
+          "name": "sofa red_c.png"
+        }
+      },
+      {
+        "file": "assets/sofa red_d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sofa red_d.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/0eaadd407c8564ac0482880931c9922bbd440f0256bac7d47fcf43226e7ac530_sofa red_d.png",
+          "name": "sofa red_d.png"
+        }
+      },
+      {
+        "file": "assets/table round gray.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "table round gray.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/84a828a448df76907372e295d5af43ee8d108baaa5f4869012b12bd734232d37_table round gray.png",
+          "name": "table round gray.png"
+        }
+      },
+      {
+        "file": "assets/table round green.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "table round green.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/4b7b0dbb30dbddb5504ebe151863c1586c27d81d4955202f5262d2de62404d78_table round green.png",
+          "name": "table round green.png"
+        }
+      },
+      {
+        "file": "assets/table round blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "table round blue.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/71e3445dadf60bdcbadb39613d3ac42b1db431284c757ef9a2624006bf17be6a_table round blue.png",
+          "name": "table round blue.png"
+        }
+      },
+      {
+        "file": "assets/table round white.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "table round white.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/930d7e3891b26daa2a70c9d13f8533ede7d53d53291d7bf5038cb2127e40f5c4_table round white.png",
+          "name": "table round white.png"
+        }
+      },
+      {
+        "file": "assets/table square brown.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "table square brown.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/992f76b1c552b8608b23c35d6b8746e29ff99d1046ce78b07672990f30808bd9_table square brown.png",
+          "name": "table square brown.png"
+        }
+      },
+      {
+        "file": "assets/table square green.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "table square green.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/ffa5734c1fa3621df9a410e8d2d6d842f6dcc3865aaa9f8bbb3f33e83836c966_table square green.png",
+          "name": "table square green.png"
+        }
+      },
+      {
+        "file": "assets/tv stand brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/b75227a52bcfbe78525b413193fb2efd7bccd76779e6f3158f9ca889c575e3a4_tv stand brown_a.png",
+          "name": "tv stand brown_a.png"
+        }
+      },
+      {
+        "file": "assets/tv stand brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/db5d02678aa3fd492aa3f49f497f2a05fa651de2e9ba91fd49b69e5f2ab19cdb_tv stand brown_b.png",
+          "name": "tv stand brown_b.png"
+        }
+      },
+      {
+        "file": "assets/tv stand_b brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand_b brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/f8a618c3e6ffaf1fb83eb60f1ce66a4828eb718598f62e1acac2bf22e4c44216_tv stand_b brown_a.png",
+          "name": "tv stand_b brown_a.png"
+        }
+      },
+      {
+        "file": "assets/tv stand_b brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand_b brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/80e144fba61b4e9e2c09a94fe89a5df127a84a583ebdea3d3f1daabec9e7ad2f_tv stand_b brown_b.png",
+          "name": "tv stand_b brown_b.png"
+        }
+      },
+      {
+        "file": "assets/tv stand_b green_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand_b green_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/6c2d87db8c06137fae47040c50f1ffd3cb4fbb8ff5a90a33acb9e2e8a1ddbb7d_tv stand_b green_a.png",
+          "name": "tv stand_b green_a.png"
+        }
+      },
+      {
+        "file": "assets/tv stand_b green_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand_b green_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/b48fb331462bd96973c93763554ac322efd2b03316747452aa2f1802ee1bbf35_tv stand_b green_b.png",
+          "name": "tv stand_b green_b.png"
+        }
+      },
+      {
+        "file": "assets/tv stand_dark brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand_dark brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/307c9cafc7f4ca6eb9f50fdd771b7948a83660a5f91043ff06735c011201f5d8_tv stand_dark brown_a.png",
+          "name": "tv stand_dark brown_a.png"
+        }
+      },
+      {
+        "file": "assets/tv stand_dark brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand_dark brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/6d4807f9e93b8c682dba326940860ea6193bce2f31bd8a96ac9f47363279c0bb_tv stand_dark brown_b.png",
+          "name": "tv stand_dark brown_b.png"
+        }
+      },
+      {
+        "file": "assets/tv stand_olive_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand_olive_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/abf014769579086dc9509220ff06cc53c63e235c74460742da1544b9a5d5d930_tv stand_olive_a.png",
+          "name": "tv stand_olive_a.png"
+        }
+      },
+      {
+        "file": "assets/tv stand_olive_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tv stand_olive_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/b4052e31623400adc674080793126b9518103ee5fd6b0ea1a73234edd7ace16c_tv stand_olive_b.png",
+          "name": "tv stand_olive_b.png"
+        }
+      },
+      {
+        "file": "assets/coffee machine_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "coffee machine_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/d2a25115058e3952a44fc348eaaf099a55adfb8c0ee82751c065641ee460aa2f_coffee machine_a.png",
+          "name": "coffee machine_a.png"
+        }
+      },
+      {
+        "file": "assets/coffee machine_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "coffee machine_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/4b5ea6442f4bc47cddd8b07dc1bc9aaa9f3b06f02f9cb1961582bf3b7c00da05_coffee machine_b.png",
+          "name": "coffee machine_b.png"
+        }
+      },
+      {
+        "file": "assets/vanity stand black_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "vanity stand black_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/cee0b825db9bfef80e2d89a94c486e77a0d59728e21aaa8a83a62ea991d200b4_vanity stand black_a.png",
+          "name": "vanity stand black_a.png"
+        }
+      },
+      {
+        "file": "assets/vanity stand black_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "vanity stand black_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/e2a4e69008bccbf972373eab2a7c1bd6c5fe521d768d8bebcb1f42a91a649fee_vanity stand black_b.png",
+          "name": "vanity stand black_b.png"
+        }
+      },
+      {
+        "file": "assets/cactus.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cactus.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/a369bffdbe12cfa6f935631939ab7f55740c004cacb07c7f90f81bc3fc582365_cactus.png",
+          "name": "cactus.png"
+        }
+      },
+      {
+        "file": "assets/cube blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cube blue.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/5894d224bf5f030dc8631200540f34b6ea352c2114f17b808441994911078c5b_cube blue.png",
+          "name": "cube blue.png"
+        }
+      },
+      {
+        "file": "assets/cube brown.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cube brown.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/c0f93c83f7d3a29e4e815a1d982cbd1f92aa40ac47211ceec3b04f422309f6b7_cube brown.png",
+          "name": "cube brown.png"
+        }
+      },
+      {
+        "file": "assets/cube gray.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cube gray.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/28a14bc486542b4d248121182ff925e6e9281f70ba49ba73ea9cfdaa2b43b0c6_cube gray.png",
+          "name": "cube gray.png"
+        }
+      },
+      {
+        "file": "assets/cube white.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cube white.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/2aa68074056b66d881c62f141283ecd812576d2aff5c452f49d8309d5510201f_cube white.png",
+          "name": "cube white.png"
+        }
+      },
+      {
+        "file": "assets/flower base.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "flower base.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/93cd8f17ed734907f4ff39c4987a6751cee9def78a5d2fddf885ae0007871f83_flower base.png",
+          "name": "flower base.png"
+        }
+      },
+      {
+        "file": "assets/vanity stand brown_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "vanity stand brown_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/825d3f0ca7e53ae06f86691ea92126dd938f86cae7f5cac949cfaf2cbcda0261_vanity stand brown_a.png",
+          "name": "vanity stand brown_a.png"
+        }
+      },
+      {
+        "file": "assets/vanity stand brown_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "vanity stand brown_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/148637fd47caed49c378ff9b4bb73e3ef28016b0d60431f497479240bdb085ce_vanity stand brown_b.png",
+          "name": "vanity stand brown_b.png"
+        }
+      },
+      {
+        "file": "assets/frame large blue_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "frame large blue_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/be543c37e51db2a1bf1c92272d49201505819a9b24bb7d7704fe69a3bc47eda0_frame large blue_a.png",
+          "name": "frame large blue_a.png"
+        }
+      },
+      {
+        "file": "assets/frame large blue_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "frame large blue_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/13d341bfdf4f847ce4ea0b431ee01e00c3c9e516458ab60833c11f0c2252a825_frame large blue_b.png",
+          "name": "frame large blue_b.png"
+        }
+      },
+      {
+        "file": "assets/frame large green_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "frame large green_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/2531c3d8ce264c3ae6a2a14fdc9d35b953feef62fe90fa47aa10b76fcb892a9a_frame large green_a.png",
+          "name": "frame large green_a.png"
+        }
+      },
+      {
+        "file": "assets/frame large green_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "frame large green_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/bf19fbc8e81ec2593db6bdd3253624264ab4a48a7ee34fe078411fc49673b618_frame large green_b.png",
+          "name": "frame large green_b.png"
+        }
+      },
+      {
+        "file": "assets/frame large pink_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "frame large pink_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/6b23501e628be800a4e2c858720ba522c4a412482aea9532e839fb815b801bc1_frame large pink_a.png",
+          "name": "frame large pink_a.png"
+        }
+      },
+      {
+        "file": "assets/frame large pink_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "frame large pink_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/e640fe8e5094d1bbdb55929b84bca53e2d62c5b52dfb8cc3cd55592678557ff4_frame large pink_b.png",
+          "name": "frame large pink_b.png"
+        }
+      },
+      {
+        "file": "assets/frame large orange_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "frame large orange_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/ceaa166b67e0353854c013a9e13636131fa95328f046cb8c62916de9c19043e0_frame large orange_a.png",
+          "name": "frame large orange_a.png"
+        }
+      },
+      {
+        "file": "assets/frame large orange_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "frame large orange_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Props/d81de50252d81ea8613abb0ec5add8831a7a3119b5a0659bca575fc91ad6a1f9_frame large orange_b.png",
+          "name": "frame large orange_b.png"
         }
       }
     ]
@@ -843,7 +2047,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.7876290101673753,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1213,11 +2417,1104 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "a7685ea79c5d16ab3d533f52812798f5f45f22ea2b0c65ae011d3afb3a21e086",
+          "name": "floor_blue",
+          "persistentUuid": "92844741-0f08-46c4-81c6-a7d4c75df43c",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor blue.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "1138d8dacc4f75c8344d68e8fa6389c698eeb01cd9f80d39ffe650a3a02ef1a7",
+          "name": "floor_brown",
+          "persistentUuid": "c2daf9c8-b076-4ead-85f5-db306db26f64",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor brown.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "50381d0c421666654d68f734c8f83555f224b5a6c2583840523815261c25ee50",
+          "name": "floor_checkered_blue",
+          "persistentUuid": "a8b8ac2c-daab-420b-94ce-e202b38f23d8",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor checkered blue.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "06e264742b3fea2f5796680974a5742df8e55827bbf347a89acd736f5b13ba4e",
+          "name": "floor_checkered_white",
+          "persistentUuid": "4f7d82aa-b1e7-41e2-b2bc-ad342d49b4ca",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor checkered white.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "af88ff958f4c2d340eb02b1742a85c4243716660d6290b5dcb9fd0550135e754",
+          "name": "floor_gray",
+          "persistentUuid": "43fb372c-87a3-4e5c-b795-8650005c713b",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor gray.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "644e6a24a41a049aff8b01689cf892d69b45b6ef9cb08574ab2ae048f5c8c233",
+          "name": "floor_olive",
+          "persistentUuid": "61769e7c-e9a6-41b5-ae81-2b45e8b8a0fb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor olive.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "598bd3272dc2e12b074526de52c84641f5dde896e1fdba81864aa3c9ae9004c9",
+          "name": "floor_purple",
+          "persistentUuid": "0c44bcb5-8107-45fd-b1c5-ada68123cfac",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor purple.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "38cd35eb37b40d9e899ae3e9f358c831fa404cb144c985ab7ab1a22dc1d7e990",
+          "name": "floor_seam_black",
+          "persistentUuid": "04df9278-0009-46dd-a8f6-f15796c695b7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "a",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor seam black_a.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 287,
+                            "y": 0
+                          },
+                          {
+                            "x": 287,
+                            "y": 171
+                          },
+                          {
+                            "x": 0,
+                            "y": 171
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "b",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor seam black_b.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 287,
+                            "y": 0
+                          },
+                          {
+                            "x": 287,
+                            "y": 171
+                          },
+                          {
+                            "x": 0,
+                            "y": 171
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "22dbb38a81c47d96aba2c8a5716e6e4b5ef5becbd6c8012d7f7bc205e604cb3a",
+          "name": "floor_seam_gray",
+          "persistentUuid": "a1e7c7e5-c084-41c8-83fc-6aab462d97e7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "a",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor seam gray_a.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 287,
+                            "y": 0
+                          },
+                          {
+                            "x": 287,
+                            "y": 171
+                          },
+                          {
+                            "x": 0,
+                            "y": 171
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "b",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor seam gray_b.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 287,
+                            "y": 0
+                          },
+                          {
+                            "x": 287,
+                            "y": 171
+                          },
+                          {
+                            "x": 0,
+                            "y": 171
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8193f98b8b432d446459e8c9d9afeaf6a9a04ed494f2b192b332039904b0d4c1",
+          "name": "floor_teal",
+          "persistentUuid": "3fc64477-54a8-4cd1-aa3e-41815ed74387",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor teal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 283
+                          },
+                          {
+                            "x": 0,
+                            "y": 283
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "09cea616b79c5b4fd99bfe8db5ec614d430fe9e5296d644c231207357309ffd3",
+          "name": "floor_white",
+          "persistentUuid": "c6c20b0f-1aa4-40cd-9fbb-203b0d87390b",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor white.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "de4acb9bc6e58920005fc4edfb51f876a5fa43cd53c3439fdd03004927682e15",
+          "name": "floor_yellow",
+          "persistentUuid": "3c2d56a8-6d80-48dd-b5f4-ce0af32aadc3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "floor yellow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 0
+                          },
+                          {
+                            "x": 519,
+                            "y": 287
+                          },
+                          {
+                            "x": 0,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "c0a6ed35b9bbcf7791c86705339305c87bb35ecc14c6fedd9e938d7aab5b1d77",
+          "name": "stairs_brown",
+          "persistentUuid": "8a9256af-d143-47be-82c2-244794c80635",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "a",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "stairs brown_a.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 263,
+                            "y": 0
+                          },
+                          {
+                            "x": 263,
+                            "y": 311
+                          },
+                          {
+                            "x": 0,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "b",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "stairs brown_b.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 263,
+                            "y": 0
+                          },
+                          {
+                            "x": 263,
+                            "y": 311
+                          },
+                          {
+                            "x": 0,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "0be4296e256a373b1a863b91b4ad0734652c8bedacdec552a6bc08e0e53041b4",
+          "name": "stairs_gray",
+          "persistentUuid": "e7236fca-522d-4d06-ab83-3135ba5a919c",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "a",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "stairs gray_a.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 263,
+                            "y": 0
+                          },
+                          {
+                            "x": 263,
+                            "y": 311
+                          },
+                          {
+                            "x": 0,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "b",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "stairs gray_b.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 263,
+                            "y": 0
+                          },
+                          {
+                            "x": 263,
+                            "y": 311
+                          },
+                          {
+                            "x": 0,
+                            "y": 311
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "folderName": "Floor",
+            "children": [
+              {
+                "objectName": "floor_blue"
+              },
+              {
+                "objectName": "floor_brown"
+              },
+              {
+                "objectName": "floor_checkered_blue"
+              },
+              {
+                "objectName": "floor_checkered_white"
+              },
+              {
+                "objectName": "floor_gray"
+              },
+              {
+                "objectName": "floor_olive"
+              },
+              {
+                "objectName": "floor_purple"
+              },
+              {
+                "objectName": "floor_seam_black"
+              },
+              {
+                "objectName": "floor_seam_gray"
+              },
+              {
+                "objectName": "floor_teal"
+              },
+              {
+                "objectName": "floor_white"
+              },
+              {
+                "objectName": "floor_yellow"
+              },
+              {
+                "objectName": "stairs_brown"
+              },
+              {
+                "objectName": "stairs_gray"
+              }
+            ]
+          },
           {
             "objectName": "PromptText"
           },
@@ -1260,12 +3557,95 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "FeedbackText",
+                "Text",
+                "=",
+                "\"Not quite yet. Wet floors are slippery, and running makes a fall more likely. Try another choice.\""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "AnswerText2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "FeedbackText",
+                "Text",
+                "=",
+                "\"Great choice! Walking around keeps you steady, and telling a grown-up means they can clean it up so nobody slips.\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "AnswerText3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "FeedbackText",
+                "Text",
+                "=",
+                "\"Not quite yet. Someone else could slip on it later. It is better to tell a grown-up. Try another choice.\""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -24642,7 +27022,7 @@
                     }
                   ],
                   "string": "Button",
-                  "font": "CaveatBrush-Regular.ttf",
+                  "font": "CaveatBrush-Regular2.ttf",
                   "textAlignment": "center",
                   "characterSize": 40,
                   "color": {
@@ -24665,7 +27045,7 @@
                     "smoothed": true,
                     "underlined": false,
                     "text": "Button",
-                    "font": "CaveatBrush-Regular.ttf",
+                    "font": "CaveatBrush-Regular2.ttf",
                     "textAlignment": "center",
                     "verticalTextAlignment": "center",
                     "characterSize": 40,
